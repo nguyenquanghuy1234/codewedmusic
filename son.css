@@ -1,0 +1,135 @@
+.hearder{
+    margin-top: -100px;
+}
+.phanduoi{
+    margin-top: 100px;
+    height: 330px;
+    width: 100%;
+    
+}
+.cochu123{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+.ten{
+    width: 100%;
+    height: 42px;
+    display: flex;
+}
+.huy1234{
+    margin-left: 80px;
+    font-size: 40px;
+}
+#phongto{
+    margin-left: 15px;
+    font-size: 42px;
+}
+.anhcon{
+    height: 150px;
+    width: 150px;
+    margin-right: 30px;
+}
+#cach{
+    margin-left: 80px;
+}
+.tron{
+    border-radius: 78px;
+}
+.anh{
+    margin-top: 40px;
+    display: flex;
+}
+.menu1{
+    display: flex;
+    margin-top: 100px;
+    width: 1222px;
+    height: 32px;
+    border-bottom: solid 1px #d3d3d3;
+    margin-left: 80px;
+}
+.menu-con{
+    width: 100px;
+    height: 100%;
+    margin-right: 40px;
+}
+.ngu{
+    font-size: 17px;
+    text-align: center;
+}
+#ngu1{
+    color: blueviolet;  
+}
+#xet{
+    border-bottom: solid 3px blueviolet;
+}
+.node1234{
+    height: 30px;
+    width: 1000px;
+   
+    margin-left: 80px;
+    display: flex;
+    margin-top: 30px;
+}
+#nodethem{
+    border: solid 1px black;
+    background-color: rgb(130, 11, 241);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.node23{
+    width:120px;
+    height: 100%;
+    margin-right: 40px;
+}
+.hhh{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 15px;
+    color:white;
+}
+#nodethem1{
+    border: solid 1px black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.hhh1{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+.khampha{
+    height: 700px;
+    width: 300px;
+    margin-top: 30px;
+}
+.khamphaanh{
+    margin-left: 500px;
+    height:  300px;
+    width: 450px;
+}
+.I{
+    text-align: center;
+    font-size: 20px;
+}
+.table1{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(43, 41, 160);
+    margin-top: 80px;
+    margin-left: 634px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.ta{
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 10px;
+}
